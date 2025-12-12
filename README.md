@@ -1,3 +1,5 @@
+Type error when using `declaration` tsconfig option. `pnpm i` and then see `src/index.ts` for error.
+
 ```sh
 corepack install
 node --run typecheck
